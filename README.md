@@ -9,6 +9,9 @@ PTT文章爬蟲
 輸出格式
 * .TXT文字檔
 
+### Environment
+Python 2.7.3
+
 ### 執行方法
   python PttCrawler.py  [版名]   [抓取頁數]
  
