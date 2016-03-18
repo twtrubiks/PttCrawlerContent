@@ -9,14 +9,6 @@ PTT文章爬蟲 for Windows and Linux
 ## 輸出格式
 * 文字檔
 
-## 執行畫面
-![alt tag](http://i.imgur.com/r4dkGtC.jpg)
-![alt tag](http://i.imgur.com/pgNjE6n.jpg)
-![alt tag](http://i.imgur.com/rS5eIi7.jpg)
-
-## Environment
-Python 2.7.3
-
 ## 執行方法
 ```
 python PttCrawler.py  [版名]   [抓取頁數]
@@ -27,7 +19,15 @@ python PttCrawler.py  [版名]   [抓取頁數]
 ```
 python PttCrawler.py  Gossiping  2 
 ```
-  
+
+## 執行畫面
+![alt tag](http://i.imgur.com/r4dkGtC.jpg)
+![alt tag](http://i.imgur.com/pgNjE6n.jpg)
+![alt tag](http://i.imgur.com/rS5eIi7.jpg)
+
+## Environment
+Python 2.7.3
+
 ## 執行檔
 * 已打包為windows exe檔案(不須安裝python)
 
